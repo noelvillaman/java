@@ -1,0 +1,184 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!doctype html>
+<html>
+<head>
+<title>
+	Cars | Trucks - Results
+</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+</head>
+<body id="ctl00_Body" class="bodyHome">
+<div id="siteHdr">
+    <div id="" style="text-align: center; width: 1024px; margin:0 auto;">
+
+	    <div class="logo" style="width: 300px; height: 55px; text-align: left; float: left;">
+    	  <img src="images/logo_vehicles.png" alt="" />
+    	</div>
+    	<div class="clear">
+    	</div>
+    	<div id="NavDiv" align="left" class="overflowH" style="background: ">
+        	<a href="#" class="topNavigation">Find a Car</a>
+        	<a href="#" class="topNavigation">Research</a>
+        	<a href="#" class="topNavigation">Best Deals</a>
+        	<a href="#" class="topNavigation">Certified Pre-Owned</a>
+        	<a href="#" class="topNavigation">Find a Dealer</a>
+        	<a href="#" class="topNavigation">Finance &amp; Insurance</a>
+        	<a href="#" id="ctl00_Header_ancBlog" class="topNavigation">Advice</a>
+        	<a href="#" class="topNavigation">About Us</a>
+    	</div>
+	</div>
+
+</div>
+
+<div id="mainBodyHome">
+    <div id="divMainContent">
+        
+        
+	<div id="Home">
+    	<div class="TopBgImageContainer">
+    		<div>
+    			<div style="float: left; width: 590px; height: 316px">
+                	<img class=" RoundedCornerAll dropShadow" src="images/front_page.png" alt="" />
+            	</div>
+            	<div class="clear">
+            	</div>
+            	<div id="myresults">
+	            	<div id="result1">Car Pictures</div><div id="result2">Car Information</div><div id="result3">Price</div>
+	                <div id="result1">Car Pictures</div><div id="result2">Car Information</div><div id="result3">Price</div>
+	                <div id="result1">Car Pictures</div><div id="result2">Car Information</div><div id="result3">Price</div>
+	                <div id="result1">Car Pictures</div><div id="result2">Car Information</div><div id="result3">Price</div>
+	                <div id="result1">Car Pictures</div><div id="result2">Car Information</div><div id="result3">Price</div>
+	                <div id="result1">Car Pictures</div><div id="result2">Car Information</div><div id="result3">Price</div>
+	                <div id="result1">Car Pictures</div><div id="result2">Car Information</div><div id="result3">Price</div>
+	                <div id="result1">Car Pictures</div><div id="result2">Car Information</div><div id="result3">Price</div>
+	                <div id="result1">Car Pictures</div><div id="result2">Car Information</div><div id="result3">Price</div>
+	                <div id="result1">Car Pictures</div><div id="result2">Car Information</div><div id="result3">Price</div>
+	                <div id="result1">Car Pictures</div><div id="result2">Car Information</div><div id="result3">Price</div>
+	                <div id="result1">Car Pictures</div><div id="result2">Car Information</div><div id="result3">Price</div>
+	                <div class="clearleft"></div>
+				</div>
+        	</div>
+    	</div>
+    <div style="margin-bottom: 15px">
+        <div style="width: 680px; height: 20px; float: left; line-height: 20px; text-align: left;
+            text-align: center;" align="center">
+            <h1>
+                Your favorite new place to find your next quality used car or truck.</h1>
+        </div>
+         
+        <div class="clear">
+        </div>
+    </div>
+    	<div style="width: 990px; padding: 5px 10px 10px 0; text-align: left">
+        	<div style="float: left">
+            	<div style="width: 680px; padding-bottom: 10px;" class="spanNoShow topContainer">
+                
+
+					<div class="HomePriceRange">
+						<h2 style="margin-bottom: 10px">Find by Price</h2> 
+						<div id="divPriceRange10">
+						    <a id="" class="home-PriceRangeTop" href="#">Under $5,000</a>
+						    <a id="" class="home-PriceRangeTop" href="#">Under $15,000</a>
+						    <a id="" class="home-PriceRangeTop" href="#">Under $25,000</a>
+						    <a id="" class="home-PriceRangeTop" href="#">Under $35,000</a>
+						    <a id="" class="home-PriceRangeTop range-end" href="#">Under $45,000</a>
+							
+						    <div class="clear"> </div>
+						
+						    <a id="" class="home-PriceRangeBtm" href="#">Under $10,000</a> 
+						    <a id="" class="home-PriceRangeBtm" href="#">Under $20,000</a>
+						    <a id="" class="home-PriceRangeBtm" href="#">Under $30,000</a>
+						    <a id="" class="home-PriceRangeBtm" href="#">Under $40,000</a>
+						    <a id="" class="home-PriceRangeBtm range-end" href="#">Over $45,000</a>
+						    <div class="clear"> </div>
+						</div>
+	
+					</div>
+            	</div>
+
+            	<div style="width: 680px; padding-bottom: 10px;" class="spanNoShow">
+				
+
+					<div class="HomeBodyStyle">
+						<h2 style="margin-bottom: 10px">Browse by Type <span class="changetext">
+							<a id="aChangeLocationBody" style="cursor: pointer; font-size: 11px" rel="nofollow">Change Location >></a>
+							</span>
+						</h2>
+					
+						<div class="home-bodystyleLG" title="Used Sedans">
+						    <div class="home-bodystyleSprite" style="background: url(http://image.usedcars.com/Images/Layout/Background/homepage-sprite.png) 0 0 no-repeat"> </div>
+						    <div><a id="" href="#">Cars<br />
+						    </a></div>
+						</div>
+						<div class="home-bodystyleLG" title="Used Pickup Trucks">
+						    <div class="home-bodystyleSprite" style="background: url(http://image.usedcars.com/Images/Layout/Background/homepage-sprite.png) -160px 0 no-repeat"> 
+							</div>
+						    <div><a id="" href="#">      Trucks</a></div>
+						</div>
+						<div style="display:none" class="home-bodystyleLG"  title="Used Luxury Cars">
+						    <div class="home-bodystyleSprite" style="background: url(http://image.usedcars.com/Images/Layout/Background/homepage-sprite.png) -640px 0 no-repeat"></div>
+						    <div><a id="ctl00_mainPage_BodyStyleLG_HyperLinkUsedLuxury" href="/car-body-type/luxury-cars/">Luxury Cars</a></div>
+						</div>
+					
+						<div class="clear"></div>
+					
+					</div>
+				</div>
+				<div style="width: 680px; padding-bottom: 10px;" class="spanNoShow"></div>      
+
+			</div>
+			<div style="width: 650px; padding-left: 20px">
+				<div class="clear"></div>
+			</div>
+		</div>
+    	<div class="clear"></div>
+	</div>
+	</div>
+      
+</div>
+<div class="clear"></div>
+<div id="siteFtr">
+    <div style="text-align: center; width: 1024px; margin: 0 auto">
+<div class="FooterMain">
+<div class="clear"></div>
+<div class="BNMenuContent">
+    <div class="BNSec">
+        <div>
+          <h4>Used Vehicles</h4></div>
+        <a id="ctl00_Footer_HLPowerSearch" href="#">Find a Used Vehicle</a> <br />
+        <a id="ctl00_Footer_HLResearch" href="#">Research a Used Vehicle</a><br />
+        <a id="ctl00_Footer_HLBestDeals" href="#">Used Vehicles Best Deals</a> <br />
+        <a id="ctl00_Footer_HLFinancing" href="#">Used Vehicles Financing</a><br />
+        <a id="ctl00_Footer_HLInsurance" href="#">Used Vehicles Insurance</a> <br />
+        <div><a href="#">Advice</a> </div>        
+    </div>
+
+    <div class="BNSec">
+        <div>
+          <h4>About CarsTrucks.com</h4></div>
+        <div><a id="ctl00_Footer_HLAbout" href="#">About Us</a></div>
+        <div><a href="#">Corporate/Dealix</a> </div>
+        <div><a id="ctl00_Footer_HLBuyer" href="#">Buyer Information</a></div>
+        <div><a id="ctl00_Footer_HLFaq" href="#">FAQ</a></div>
+        
+        
+        <div><a id="ctl00_Footer_HLFeedback" rel="nofollow" href="#">Contact Us</a> </div>
+        
+    </div>
+
+    <div class="BNSec">
+        <div>
+          <h4>Used Vehicles Dealers</h4></div>
+        <div><a id="ctl00_Footer_HLDealerNetwork" href="#">Dealer Info</a> </div>
+        <div><a id="ctl00_Footer_HLAffiliates" rel="nofollow" href="#">Partners</a></div>
+    </div>
+    </div>
+    <div class="clear"></div>
+</div>
+</div>
+</div>
+</body>
+</html>

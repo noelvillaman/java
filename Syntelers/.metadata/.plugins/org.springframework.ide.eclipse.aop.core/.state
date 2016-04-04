@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="ProjectSUV"/>
+<aop-project name="MavenNoelSpringMVC"/>
+<aop-project name="StudentLoans"/>
+</aop-reference-model>

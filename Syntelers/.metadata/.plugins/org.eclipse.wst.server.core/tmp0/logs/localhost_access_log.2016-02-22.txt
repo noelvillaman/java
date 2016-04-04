@@ -1,0 +1,9 @@
+127.0.0.1 - - [22/Feb/2016:14:23:07 -0500] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:14:23:08 -0500] "GET /MavenNoelSpringMVC/WEB-INF/classes/org/controllers/LoginController.java HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:14:23:56 -0500] "GET /MavenNoelSpringMVC/WEB-INF/pages/login.jsp HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:14:24:22 -0500] "GET /MavenNoelSpringMVC/index.jsp HTTP/1.1" 200 309
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:14:25:07 -0500] "GET /MavenNoelSpringMVC/index.jsp HTTP/1.1" 200 309
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:14:25:07 -0500] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:14:25:19 -0500] "GET /MavenNoelSpringMVC/login.jsp HTTP/1.1" 404 1050
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:14:25:25 -0500] "GET /MavenNoelSpringMVC/login HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [22/Feb/2016:14:25:33 -0500] "GET /MavenNoelSpringMVC/index.jsp HTTP/1.1" 200 309

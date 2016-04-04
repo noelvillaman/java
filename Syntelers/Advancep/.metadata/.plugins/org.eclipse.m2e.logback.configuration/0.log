@@ -1,0 +1,135 @@
+2016-02-25 11:12:24,345 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ServletJSPExample:ServletJSPExample:0.0.1-SNAPSHOT @ C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\pom.xml.
+2016-02-25 11:12:29,631 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:12:29,639 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\main\resources
+2016-02-25 11:12:29,643 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:12:29,650 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\test\resources
+2016-02-25 11:12:29,738 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ServletJSPExample/src
+2016-02-25 11:12:29,740 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ServletJSPExample/src/test/java because it overlaps with /ServletJSPExample/src
+2016-02-25 11:12:31,184 [Worker-61] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-02-25 11:12:32,055 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ServletJSPExample:ServletJSPExample:0.0.1-SNAPSHOT @ C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\pom.xml.
+2016-02-25 11:12:33,800 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ServletJSPExample/src
+2016-02-25 11:12:33,801 [Worker-61] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ServletJSPExample/src/test/java because it overlaps with /ServletJSPExample/src
+2016-02-25 11:12:34,084 [Worker-61] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ServletJSPExample
+2016-02-25 11:12:34,130 [Worker-61] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-02-25 11:12:34,472 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:12:34,511 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\main\resources
+2016-02-25 11:12:34,514 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:12:34,562 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\test\resources
+2016-02-25 11:12:34,562 [Worker-64] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ServletJSPExample
+2016-02-25 11:12:34,563 [Worker-64] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ServletJSPExample
+2016-02-25 11:12:34,663 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:36:46,570 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:36:46,601 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\main\resources
+2016-02-25 11:36:46,602 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:36:46,608 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\test\resources
+2016-02-25 11:47:26,496 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:47:26,504 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\main\resources
+2016-02-25 11:47:26,509 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:47:26,513 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\test\resources
+2016-02-25 11:52:39,909 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:52:39,917 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\main\resources
+2016-02-25 11:52:39,918 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:52:39,927 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\test\resources
+2016-02-25 11:55:01,448 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ServletJSPExample:ServletJSPExample:0.0.1-SNAPSHOT @ C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\pom.xml.
+2016-02-25 11:55:02,173 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-content/4.1.1.RELEASE/spring-content-4.1.1.RELEASE.pom
+2016-02-25 11:55:02,187 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-content:jar:4.1.1.RELEASE is missing, no dependency information available
+2016-02-25 11:55:02,346 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.1.RELEASE/spring-aop-4.1.1.RELEASE.pom
+2016-02-25 11:55:02,409 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.1.RELEASE/spring-aop-4.1.1.RELEASE.pom
+2016-02-25 11:55:02,472 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.1.RELEASE/spring-beans-4.1.1.RELEASE.pom
+2016-02-25 11:55:02,517 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.1.RELEASE/spring-beans-4.1.1.RELEASE.pom
+2016-02-25 11:55:02,558 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.1.RELEASE/spring-core-4.1.1.RELEASE.pom
+2016-02-25 11:55:02,601 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.1.RELEASE/spring-core-4.1.1.RELEASE.pom
+2016-02-25 11:55:02,804 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframeword/spring-webmvc/4.1.1.RELEASE/spring-webmvc-4.1.1.RELEASE.pom
+2016-02-25 11:55:02,808 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframeword:spring-webmvc:jar:4.1.1.RELEASE is missing, no dependency information available
+2016-02-25 11:55:03,149 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-content/4.1.1.RELEASE/spring-content-4.1.1.RELEASE.jar
+2016-02-25 11:55:03,341 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.1.RELEASE/spring-aop-4.1.1.RELEASE.jar
+2016-02-25 11:55:03,996 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.1.RELEASE/spring-aop-4.1.1.RELEASE.jar
+2016-02-25 11:55:04,023 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.1.RELEASE/spring-beans-4.1.1.RELEASE.jar
+2016-02-25 11:55:04,509 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.1.1.RELEASE/spring-beans-4.1.1.RELEASE.jar
+2016-02-25 11:55:04,540 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.1.RELEASE/spring-core-4.1.1.RELEASE.jar
+2016-02-25 11:55:05,295 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.1.1.RELEASE/spring-core-4.1.1.RELEASE.jar
+2016-02-25 11:55:05,386 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframeword/spring-webmvc/4.1.1.RELEASE/spring-webmvc-4.1.1.RELEASE.jar
+2016-02-25 11:55:05,982 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-content:jar:4.1.1.RELEASE is missing, no dependency information available
+2016-02-25 11:55:06,010 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframeword:spring-webmvc:jar:4.1.1.RELEASE is missing, no dependency information available
+2016-02-25 11:55:08,527 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:55:08,541 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\main\resources
+2016-02-25 11:55:08,580 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:55:08,639 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\test\resources
+2016-02-25 11:55:08,640 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ServletJSPExample
+2016-02-25 11:55:08,640 [Worker-79] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ServletJSPExample
+2016-02-25 11:55:08,646 [Worker-79] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:58:06,023 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.1.RELEASE/spring-context-4.1.1.RELEASE.pom
+2016-02-25 11:58:06,048 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.1.RELEASE/spring-context-4.1.1.RELEASE.pom
+2016-02-25 11:58:06,131 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.1.RELEASE/spring-expression-4.1.1.RELEASE.pom
+2016-02-25 11:58:06,185 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.1.RELEASE/spring-expression-4.1.1.RELEASE.pom
+2016-02-25 11:58:06,234 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframeword:spring-webmvc:jar:4.1.1.RELEASE is missing, no dependency information available
+2016-02-25 11:58:06,290 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.1.RELEASE/spring-context-4.1.1.RELEASE.jar
+2016-02-25 11:58:06,709 [Worker-73] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ServletJSPExample:ServletJSPExample:0.0.1-SNAPSHOT @ C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\pom.xml.
+2016-02-25 11:58:06,986 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.1.1.RELEASE/spring-context-4.1.1.RELEASE.jar
+2016-02-25 11:58:07,016 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.1.RELEASE/spring-expression-4.1.1.RELEASE.jar
+2016-02-25 11:58:07,188 [Worker-77] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.1.1.RELEASE/spring-expression-4.1.1.RELEASE.jar
+2016-02-25 11:58:07,734 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframeword:spring-webmvc:jar:4.1.1.RELEASE is missing, no dependency information available
+2016-02-25 11:58:07,809 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframeword:spring-webmvc:jar:4.1.1.RELEASE is missing, no dependency information available
+2016-02-25 11:58:08,931 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:58:08,937 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\main\resources
+2016-02-25 11:58:08,944 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:58:08,954 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\test\resources
+2016-02-25 11:58:08,959 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ServletJSPExample
+2016-02-25 11:58:08,959 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ServletJSPExample
+2016-02-25 11:58:08,964 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:58:46,312 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframeword:spring-webmvc:jar:4.1.1.RELEASE is missing, no dependency information available
+2016-02-25 11:58:46,343 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:58:46,353 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\main\resources
+2016-02-25 11:58:46,358 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:58:46,363 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\test\resources
+2016-02-25 11:59:25,128 [Worker-75] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ServletJSPExample:ServletJSPExample:0.0.1-SNAPSHOT @ C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\pom.xml.
+2016-02-25 11:59:25,499 [Worker-75] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.1.1.RELEASE/spring-webmvc-4.1.1.RELEASE.pom
+2016-02-25 11:59:25,550 [Worker-75] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.1.1.RELEASE/spring-webmvc-4.1.1.RELEASE.pom
+2016-02-25 11:59:25,593 [Worker-75] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.1.1.RELEASE/spring-web-4.1.1.RELEASE.pom
+2016-02-25 11:59:25,643 [Worker-75] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.1.1.RELEASE/spring-web-4.1.1.RELEASE.pom
+2016-02-25 11:59:25,772 [Worker-75] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.1.1.RELEASE/spring-webmvc-4.1.1.RELEASE.jar
+2016-02-25 11:59:26,396 [Worker-75] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.1.1.RELEASE/spring-webmvc-4.1.1.RELEASE.jar
+2016-02-25 11:59:26,422 [Worker-75] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.1.1.RELEASE/spring-web-4.1.1.RELEASE.jar
+2016-02-25 11:59:26,817 [Worker-75] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.1.1.RELEASE/spring-web-4.1.1.RELEASE.jar
+2016-02-25 11:59:28,424 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:59:28,436 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\main\resources
+2016-02-25 11:59:28,443 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:59:28,456 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\test\resources
+2016-02-25 11:59:28,456 [Worker-75] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ServletJSPExample
+2016-02-25 11:59:28,456 [Worker-75] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ServletJSPExample
+2016-02-25 11:59:28,462 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:59:29,084 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:59:29,088 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\main\resources
+2016-02-25 11:59:29,089 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 11:59:29,093 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\test\resources
+2016-02-25 12:48:48,169 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 12:48:48,176 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\main\resources
+2016-02-25 12:48:48,179 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 12:48:48,185 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\test\resources
+2016-02-25 12:49:58,310 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 12:49:58,315 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\main\resources
+2016-02-25 12:49:58,317 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 12:49:58,325 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\test\resources
+2016-02-25 12:50:15,102 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 12:50:15,165 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\main\resources
+2016-02-25 12:50:15,210 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 12:50:15,254 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\test\resources
+2016-02-25 12:52:56,660 [JavaFX Application Thread] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-02-25 12:53:43,892 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample
+2016-02-25 12:53:43,893 [Worker-86] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-02-25 12:53:44,025 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 12:53:44,035 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\main\resources
+2016-02-25 12:53:44,043 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 12:53:44,054 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\test\resources
+2016-02-25 12:54:08,505 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 12:54:08,518 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\main\resources
+2016-02-25 12:54:08,526 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 12:54:08,542 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\test\resources
+2016-02-25 13:22:19,287 [Worker-94] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ServletJSPExample:ServletJSPExample:0.0.1-SNAPSHOT @ C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\pom.xml.
+2016-02-25 13:22:21,797 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 13:22:21,815 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\main\resources
+2016-02-25 13:22:21,825 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-02-25 13:22:21,831 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\villaman\workspace\Syntelers\Advancep\ServletJSPExample\src\test\resources
+2016-02-25 13:22:21,839 [Worker-94] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ServletJSPExample
+2016-02-25 13:22:21,839 [Worker-94] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ServletJSPExample
+2016-02-25 13:22:21,845 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE form-validation PUBLIC
+          "-//Apache Software Foundation//DTD Commons Validator Rules Configuration 1.1.3//EN"
+          "http://jakarta.apache.org/commons/dtds/validator_1_1_3.dtd">
+<form-validation>
+<global>
+    <constant>
+    <constant-name>telephoneFormat</constant-name>
+    <constant-value>^\d{5,10}$</constant-value>
+    </constant>
+</global>
+<formset>
+    <form name="CustomerForm">
+        <field property="name" depends="required">
+            <arg key="label.name" />
+        </field>
+        <field property="age" depends="required, integer, intRange">
+            <arg0 key="label.age" />
+            <arg1 key="${var:min}" resource="false"/>
+            <arg2 key="${var:max}" resource="false"/>
+            <var>
+                <var-name>min</var-name>
+                <var-value>1</var-value>
+            </var>
+            <var>
+                <var-name>max</var-name>
+                <var-value>125</var-value>
+            </var>
+        </field>
+        <field property="telephone" depends="required, mask">
+            <arg key="label.telephone" />
+            <arg1 key="label.telephone" />
+            <var>
+                <var-name>mask</var-name>
+                <var-value>${telephoneFormat}</var-value>
+            </var>
+        </field>
+        <field property="email" depends="email">
+            <arg0 key="label.email" />
+            <arg1 key="label.email" />
+        </field>
+    </form>
+</formset>
+</form-validation>

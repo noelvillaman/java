@@ -1,0 +1,13 @@
+package org.villaman.arrayElements;
+
+public class ArrayElements {
+
+	public static void main(String[] args) {
+		int[] element1 = new int[13];
+		for(int i = 0; i < 13; i++){
+			element1[i]=i;
+			System.out.print(element1[i+1] +" ");
+		}
+	}
+
+}

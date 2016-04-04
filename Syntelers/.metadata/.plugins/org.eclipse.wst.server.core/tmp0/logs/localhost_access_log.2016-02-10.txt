@@ -1,0 +1,5 @@
+127.0.0.1 - - [10/Feb/2016:11:47:25 -0500] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [10/Feb/2016:11:47:25 -0500] "GET /MavenNoelSpringMVC_1.2/WEB-INF/pages/login.jsp HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [10/Feb/2016:11:47:41 -0500] "GET /MavenNoelSpringMVC_1.2/WEB-INF/pages/login.jsp HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [10/Feb/2016:11:47:49 -0500] "GET /MavenNoelSpringMVC_1.2/WEB-INF/pages/ HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [10/Feb/2016:11:48:03 -0500] "GET /MavenNoelSpringMVC_1.2/WEB-INF/pages/table HTTP/1.1" 404 992

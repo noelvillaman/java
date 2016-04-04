@@ -1,0 +1,16 @@
+import java.io.ByteArrayInputStream;
+
+/*
+ * This program show the way to use BytArrayInputString for demonstration
+ * This works on a file to read and write one another.
+ * Let's start
+ */
+public class ByteArrayIString {
+
+	public static void main(String[] args) {
+		FileInput in = new FileInput("demo.txt");
+		ByteArrayInputStream stream = new ByteArrayInputStream(Byte[] buff);
+		stream.read();
+	}
+
+}

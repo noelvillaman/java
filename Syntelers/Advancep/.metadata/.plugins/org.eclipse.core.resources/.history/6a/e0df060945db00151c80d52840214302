@@ -1,0 +1,12 @@
+package org.villaman.arraylist;
+
+public class ArrayList1 {
+
+	public static void main(String[] args) {
+		ArrayList1 arraylist1 = new ArrayList1();
+		arraylist1.add("Today");
+		
+
+	}
+
+}

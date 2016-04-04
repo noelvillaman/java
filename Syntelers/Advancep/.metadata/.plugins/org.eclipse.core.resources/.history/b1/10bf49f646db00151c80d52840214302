@@ -1,0 +1,34 @@
+package org.villaman.arraylist;
+
+import java.util.ArrayList;
+import java.util.Random;
+
+public class ArrayList1 {
+	private static int[] num1 = {1,2,3,4,5,6,7,8,9,10};
+	public static void main(String[] args) {
+		ArrayList<String> arraylist1 = new ArrayList<String>();
+		arraylist1.add("Today");
+		arraylist1.add("Monday");
+		
+		
+		
+		for(String strings : arraylist1)
+			System.out.println(strings);
+		
+		Random rd = new Random();
+		ArrayList<Integer> nums = new ArrayList<Integer>();
+		for(int i = 0; i < 1000; i++){
+			int p = rd.nextInt(100);
+			for(int j = 0; j < 10; j++){
+				if(p == num1[j]){
+					nums.add(p);
+					continue;
+				}
+			}
+			System.out.println(nums.get(i));
+		}
+		
+
+	}
+
+}

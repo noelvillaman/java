@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN" "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+ -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+	<bean id="triangle" class="org.villaman.springtutorial.Triangle">
+		<!--  <property name="type" value=" Noel is working with Spring here."></property>-->
+		<!-- <constructor-arg value=" Noel is working with Spring here."/> 
+		<constructor-arg type="int" value="25"/> -->
+		<property name="pointA" ref="point0" />
+		<property name="pointB" ref="point1" />
+		<property name="pointC" ref="point2" />
+	</bean>
+	
+	<bean id="point0" class="org.villaman.springtutorial.Points">
+		<property name="x" value="${point0.pointX}"/>
+		<property name="y" value="${point0.pointY}"/>
+	</bean>
+	
+	<bean id="point1" class="org.villaman.springtutorial.Points">
+		<property name="x" value="${point1.pointX}"/>
+		<property name="y" value="${point1.pointY}"/>
+	</bean>
+	
+	<bean id="point2" class="org.villaman.springtutorial.Points">
+		<property name="x" value="${point2.pointX}"/>
+		<property name="y" value="${point2.pointY}"/>
+	</bean>
+
+	<!-- <bean class="org.villaman.springtutorial.DisplayNameBeanPostProcessor"/>
+ -->
+ 
+ <!-- <bean class="org.villaman.springtutorial.MyBeanFactoryPP" /> -->
+ 
+ <bean class="org.villaman.springtutorial.MyBeanFactoryPostPP" />
+ 
+ 	<bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+ 	<property name="locations" value="pointconfig.properties"></property>
+ 	</bean>
+ 
+ 	<!-- <bean id="circle" class="org.villaman.springtutorial.Circle">
+		<property name="center" ref="point4" />
+	</bean> -->
+	
+	<bean id="point4" class="org.villaman.springtutorial.Points">
+		<property name="x" value="${point0.pointX}"/>
+		<property name="y" value="${point0.pointY}"/>
+	</bean>
+	
+	<!-- <bean class="org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor"></bean> -->
+	<context:annotation-config/>
+	
+	<bean id="messageSource" class="org.springframework.context.support.ResourceBundleMessageSource">
+		<property name="basenames">
+			<list>
+				<value>mymessage</value>
+			</list>
+		</property>
+	</bean>
+	
+	<context:component-scan base-package="org.villaman.springtutorial"></context:component-scan>
+</beans>

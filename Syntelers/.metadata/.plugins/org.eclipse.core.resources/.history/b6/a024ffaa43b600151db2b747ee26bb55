@@ -1,0 +1,8 @@
+package animales;
+import javax.sound.*;
+
+public interface Animales {
+	public void speak(Sound sound);
+	public void move();
+	public void eat();
+}

@@ -1,0 +1,177 @@
+<!doctype html>
+<html>
+<head id="ctl00_Head1"><title>
+	Cars | Trucks - Login
+</title>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" /><meta name="verify-v1" content="cN42d7LeHfGhliZsqnqLQG1hzoPNhei0m0l9Ej7irjI=" />
+<meta name="verify-v1" content="OH8R/orPCdKBoryWtVK/1Na/lkA6/OtZePSvpBI+0vw=" /><meta name="y_key" content="b7815b8f1fae265b" />
+<meta name="google-site-verification" content="5hvAUA7f-jHN4e_94ucX_FEjNpUgF3SEYExMwSYq8vQ" />
+<meta name="msvalidate.01" content="F0E31F12B0AA3863E8EB26E8CE8764D3" />
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+</head>
+<body id="ctl00_Body" class="bodyHome">
+
+      <!-- Google Code for Remarketing Tag -->
+  <script type="text/javascript">
+      /* <![CDATA[ */
+      var google_conversion_id = 1064564036;
+      var google_custom_params = window.google_tag_params;
+      var google_remarketing_only = true;
+      /* ]]> */
+      </script>
+  <script type="text/javascript" async="async" src="//www.googleadservices.com/pagead/conversion.js">
+      </script>
+      <noscript>
+      <div style="display:inline;">
+      <img height="1" width="1" style="border-style:none;" alt="" 
+	  src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1064564036/?value=0&guid=ON&script=0"/>
+      </div>
+      </noscript>
+    
+            <!-- Begin comScore Tag -->
+  <script>
+                var _comscore = _comscore || [];
+                _comscore.push({ c1: "2", c2: "7532969" });
+                (function() {
+                    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+                    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+                    el.parentNode.insertBefore(s, el);
+                })();
+            </script>
+            <noscript>
+            <img src="http://b.scorecardresearch.com/p?c1=2&c2=7532969&c4=http://www.usedcars.com/Home.aspx" />
+            </noscript>
+            <!-- End comScore Tag -->
+        
+<div id="siteHdr">
+    <div id="" style="text-align: center; width: 1024px; margin:0 auto;">
+        
+<a id="top" title="Top of page"></a>
+
+    <div class="logo" style="width: 300px; height: 55px; text-align: left; float: left;">
+      <img src="images/logo_vehicles.png" alt="" /></div>
+
+    
+    <div class="clear">
+    </div>
+    <div id="NavDiv" align="left" class="overflowH" style="background: ">
+        <a href="#" class="topNavigation">Find a Car</a>
+        <a href="#" class="topNavigation">Research</a>
+        <a href="#" class="topNavigation">Best Deals</a>
+        <a href="#" class="topNavigation">Certified Pre-Owned</a>
+        <a href="#" class="topNavigation">Find a Dealer</a>
+        <a href="#" class="topNavigation">Finance &amp; Insurance</a>
+        <a href="#" id="ctl00_Header_ancBlog" class="topNavigation">Advice</a>
+        <a href="#" class="topNavigation">About Us</a>
+    </div>
+</div>
+
+    </div>
+</div>
+<div id="mainBodyHome">
+    <div id="divMainContent">
+        
+        
+<div id="Home">
+    <div class="TopBgImageContainer">
+        <div>
+            <div style="float: left; width: 590px; height: 316px">
+                <img src="images/front_page.png" alt="" />
+            </div>
+            <div style="float: right; width: 400px; padding-top: 20px;">
+                
+    <form name="aspnetForm" method="post" action="view.do" id="aspnetForm">
+	<div class="UCCSearchControlHome"><div class="UCCSearchControlHome"><h1>Login</h1></div><br />
+		<div class="SearchBoxLineItem">
+			<div class="SearchBoxLineItemTextDiv">*Username</div>
+			<div class="SearchBoxLineInputDiv">
+            	<input id="DDMake" type="text" name="firstname" required>
+			</div>
+		</div>
+        <div class="SearchBoxLineItem">
+			<div class="SearchBoxLineItemTextDiv">*Password</div>
+			<div class="SearchBoxLineInputDiv">
+	            <input id="DDModel" type="password" name="password" required>
+			</div>
+		</div>
+        <div id="ctl00_mainPage_SearchControlHome_cpoSearchOption" style="width: 376px; height: 42px; 
+		background: url(/images/carstrucks.png) -5px -260px no-repeat; color: 
+		#333; line-height: 42px; text-align: left; padding-left: 20px"></div>
+		
+        <!--<img src="images/carstrucks.png" alt="carstrucks" title="Find them!" />-->
+        <input id="select1" type="image" src="images/login.png" alt="Submit"/>
+        </form>
+        <form action="register.do">
+        	<input id="select1" type="image" src="images/newuser.png" alt="Submit"/>
+        </form>
+	</div>
+    
+
+
+<script>
+$(document).ready(function () {
+
+    $('#aspnetForm').validate({ // initialize the plugin
+        rules: {
+            username: {
+                required: true,
+                string: true,
+				contains: '!@#$%^&*()_+'
+            },
+            password: {
+                required: true,
+                minlength: 6
+            }
+        }
+    });
+
+});
+ </script>
+
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <div style="margin-bottom: 15px">
+        <div style="width: 680px; height: 20px; float: left; line-height: 20px; text-align: left;
+            text-align: center;" align="center">
+            <h1>
+                Your favorite new place to find your next quality used car or truck.</h1>
+        </div>
+        <!--I should print the selected values here -->
+        <div id="selections">
+        	<p>#selections</p>
+        </div>
+         
+        <div class="clear">
+        </div>
+    </div>
+    <div class="clear">
+    </div>
+    </div>
+</div>
+      
+  </div>
+</div>
+<div class="clear"></div>
+</div>
+
+    <div id="cpoTextDefault">
+       <div style="border-bottom: solid 1px #ccc">
+            <div style="float: right; padding-right: 2px; cursor: pointer;" onclick="javascript: 
+            hidePopUpObj('cpoTextDefault');">
+                <div class="spr_closeX"> </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div style="padding: 5px">
+        </div>
+    </div>
+<div>
+<script>
+</script>
+</body>
+</html>

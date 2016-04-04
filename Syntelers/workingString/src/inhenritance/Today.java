@@ -1,0 +1,9 @@
+package inhenritance;
+
+public class Today {
+	public void pr(){
+		System.out.println("this is parent");
+		
+	}
+
+}

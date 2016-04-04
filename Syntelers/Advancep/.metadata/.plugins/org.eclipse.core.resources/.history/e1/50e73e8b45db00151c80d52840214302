@@ -1,0 +1,18 @@
+package org.villaman.arraylist;
+
+import java.util.ArrayList;
+
+public class ArrayList1 {
+
+	public static void main(String[] args) {
+		ArrayList<String> arraylist1 = new ArrayList<String>();
+		arraylist1.add("Today");
+		arraylist1.add("Monday");
+		
+		for(String strings : arraylist1)
+			System.out.println(strings);
+		
+
+	}
+
+}

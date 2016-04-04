@@ -1,0 +1,14 @@
+package org.villaman.spring.aspect;
+
+import org.aspectj.lang.annotation.Aspect;
+import org.aspectj.lang.annotation.Before;
+
+@Aspect
+public class LogginAspect {
+
+	@Before("execution(public String org.villaman.spring.model.Circle.getName())")
+	public void LogginAdvice(){
+		System.out.println("Advice run. Get Method called.");
+	}
+
+}

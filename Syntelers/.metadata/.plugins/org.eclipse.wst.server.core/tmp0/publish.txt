@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Feb 25 13:24:13 EST 2016
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\villaman\\.m2\\repository\\org\\springframework\\spring-web\\3.2.13.RELEASE\\spring-web-3.2.13.RELEASE.jar=WEB-INF/lib/spring-web-3.2.13.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\villaman\\workspace\\Syntelers\\MavenNoelSpringMVC_1.2\\WebContent\\WEB-INF\\lib\\spring-web-3.2.13.RELEASE.jar=WEB-INF/lib/spring-web-3.2.13.RELEASE.jar

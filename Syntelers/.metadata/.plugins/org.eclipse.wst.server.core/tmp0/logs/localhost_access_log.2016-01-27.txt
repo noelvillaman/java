@@ -1,0 +1,15 @@
+127.0.0.1 - - [27/Jan/2016:15:47:58 -0500] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [27/Jan/2016:15:48:00 -0500] "GET /StudentLoans/ HTTP/1.1" 200 4645
+0:0:0:0:0:0:0:1 - - [27/Jan/2016:15:48:00 -0500] "GET /StudentLoans/css/bootstrap.css HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [27/Jan/2016:15:48:00 -0500] "GET /dist/js/bootstrap.min.js HTTP/1.1" 404 1042
+0:0:0:0:0:0:0:1 - - [27/Jan/2016:15:48:00 -0500] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 1076
+0:0:0:0:0:0:0:1 - - [27/Jan/2016:15:50:32 -0500] "GET /StudentLoans/ HTTP/1.1" 200 4645
+0:0:0:0:0:0:0:1 - - [27/Jan/2016:15:50:32 -0500] "GET /StudentLoans/css/bootstrap.css HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [27/Jan/2016:15:50:32 -0500] "GET /dist/js/bootstrap.min.js HTTP/1.1" 404 1042
+0:0:0:0:0:0:0:1 - - [27/Jan/2016:15:50:32 -0500] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 1076
+0:0:0:0:0:0:0:1 - - [27/Jan/2016:15:50:54 -0500] "GET /StudentLoans/infos.html HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [27/Jan/2016:15:50:58 -0500] "GET /StudentLoans/login.html HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [27/Jan/2016:15:55:58 -0500] "GET /StudentLoans/ HTTP/1.1" 200 4645
+0:0:0:0:0:0:0:1 - - [27/Jan/2016:15:55:58 -0500] "GET /StudentLoans/css/bootstrap.css HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [27/Jan/2016:15:55:58 -0500] "GET /dist/js/bootstrap.min.js HTTP/1.1" 404 1042
+0:0:0:0:0:0:0:1 - - [27/Jan/2016:15:55:58 -0500] "GET /assets/js/ie10-viewport-bug-workaround.js HTTP/1.1" 404 1076

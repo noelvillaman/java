@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+        "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+   <package name="example" namespace="/" extends="struts-default">
+   		<action name="FirstAction">
+   			<result>FirstPage.jsp</result>
+   		</action>
+        
+        <action name="loginAction" method="execute1" class="noelsproject.LoginAction">
+        	<result>FirstPage.jsp</result>
+        	<result name="fail">UserLogin.jsp</result>
+        </action>
+        <action name="registration" method="run" class="todaysAssignment.LoginClass">
+        	<result name="success">FirstPage.jsp</result>
+        	<result name="input">registration.jsp</result>
+        </action>
+        <action name="loginAction1" method="run" class="herValidation.LoginClass">
+        	<result name="success">Welcome.jsp</result>
+	        <result name="input">Login1.jsp</result>
+        </action>
+        
+        <action name="employee" class="herValidation.EmployeeAction" >
+            <result name="success">/success.jsp</result>
+      		<result name="input">/Employee.jsp</result>
+          	<result name="error">/error.jsp</result>
+        </action>
+        
+        <action name="LoadEmployee">
+   			<result>Employee.jsp</result>
+   		</action>
+    </package>
+</struts>
+
+
+
+
+

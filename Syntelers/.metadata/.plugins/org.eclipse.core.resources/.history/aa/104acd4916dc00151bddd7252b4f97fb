@@ -1,0 +1,16 @@
+package inhenritance;
+
+public class A extends Today{
+
+	public static void main(String[] args) {
+		Today a = new A();
+		a.pr();
+		A a1 = new A();
+		a1.pr2();
+	}
+	
+	public void pr2(){
+		System.out.println("This is child");
+	}
+
+}
